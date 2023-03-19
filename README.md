@@ -4,7 +4,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any topic related to amateur programing. 
-- 📫 How to reach me - emanuel.leite.dev0@outlook.com
+- 📫 How to reach me - emanuel.leite.dev@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
